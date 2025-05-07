@@ -43,7 +43,7 @@ While exploring this environment, the player encounters **simple interactive min
 
 <img src="img/image_1.png" alt="VR Game theme" width="500" height="300"/>
 
-<img src="img/image_2_diagram.png" alt="VR Game Flow Diagram" width="450" height ="300"/>
+<img src="img/image_2_diagram.png" alt="VR Game Flow Diagram" width="500" height ="450"/>
 
 
 

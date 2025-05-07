@@ -33,10 +33,10 @@ As they enter the virtual world, the player is welcomed by:
 The game is designed to be **flexible**:
 - It's **not mandatory** for the person to engage in active gameplay.
 - If the user simply wants to enjoy the **peaceful jungle environment** with the cat, they can do that.
-- The **cat companion** provides comfort and interaction—if the player touches the cat, it reacts with **cute, friendly sounds** to increase emotional connection.
+- The **cat companion** provides comfort and interaction if the player touches the cat, it reacts with **cute, friendly sounds** to increase emotional connection.
 
-When the player is interested in interacting, they can participate in **simple mini-games**:
-- One such game is a **shape-matching activity**.
+When the player is interested in interacting, they can participate in **simple mini games**:
+- One such game is a **shape matching activity**.
 - The game displays a shape (e.g., circle, square) in front of the player.
 - The player uses **hand gestures** to replicate the shape.
   - For example, when a **circle** appears, the player forms a **fist** to match it.
@@ -70,6 +70,6 @@ We are utilizing the following tools to bring this project to life:
 
 - **Unity** – Game engine for developing immersive VR experiences.
 - **Blender** – 3D modeling and animation software for creating forest assets and game objects.
-- **Meta Quest 2** – VR headset used for testing and deploying the game, with hand-tracking capabilities.
+- **Meta Quest 2** – VR headset used for testing and deploying the game, with hand tracking capabilities.
 
 ---

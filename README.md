@@ -41,7 +41,8 @@ While exploring this environment, the player encounters **simple interactive min
 - The game provides **feedback** based on how well the player's hand matches the shape, encouraging coordination and cognitive stimulation.
 
 ![](img/image_1.png)
-![](img/image_2_diagram.png)
+<img src="img/image_2_diagram.png" alt="VR Game Flow Diagram" width="500"/>
+
 
 
 **Reference video inspiration**:  

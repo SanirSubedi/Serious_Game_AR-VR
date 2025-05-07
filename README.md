@@ -20,6 +20,7 @@ This VR game aims to:
 
 ---
 
+
 ### How Does the Game Work?
 
 The experience begins when the player puts on a **Meta Quest 2 VR headset** and is transported into a **peaceful forest environment**.
@@ -29,16 +30,25 @@ As they enter the virtual world, the player is welcomed by:
 - **Calm and soothing background music** to promote relaxation.
 - A scenic environment featuring **glowing sunflowers** and a beautiful **sunset sky**, designed to bring joy and a sense of wonder.
 
-While exploring this environment, the player encounters **simple interactive mini-games** intended to activate memory and motor skills. One such game is a **shape-matching activity**:
+The game is designed to be **flexible**:
+- It's **not mandatory** for the person to engage in active gameplay.
+- If the user simply wants to enjoy the **peaceful jungle environment** with the cat, they can do that.
+- The **cat companion** provides comfort and interaction—if the player touches the cat, it reacts with **cute, friendly sounds** to increase emotional connection.
 
+When the player is interested in interacting, they can participate in **simple mini-games**:
+- One such game is a **shape-matching activity**.
 - The game displays a shape (e.g., circle, square) in front of the player.
-- The player is encouraged to **replicate the shape using hand gestures**.
-- For example, when a **circle** appears, the player forms a **fist** with their hand to match it.
-- Shapes may appear in different **orientations**, prompting the player to use:
-  - Left or right hand
-  - Hands rotated upside down
-  - Varying hand positions
-- The game provides **feedback** based on how well the player's hand matches the shape, encouraging coordination and cognitive stimulation.
+- The player uses **hand gestures** to replicate the shape.
+  - For example, when a **circle** appears, the player forms a **fist** to match it.
+  - Shapes may be rotated, requiring the use of:
+    - Left or right hand
+    - Upside-down or side rotations
+- The game gives **real-time feedback** and plays **pleasant music or sounds** when the shape is matched correctly, reinforcing a sense of success and joy.
+
+
+**Reference video inspiration**:  
+[https://x.com/interesting_aIl/status/1915692973808902605?t=c6V2oNFM48PXrv5aK7XsFA&s=08](https://x.com/interesting_aIl/status/1915692973808902605?t=c6V2oNFM48PXrv5aK7XsFA&s=08)
+
 
 ---
 

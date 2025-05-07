@@ -1,10 +1,10 @@
 # 🌿 Serious Game – VR Nature & Cognitive Therapy for Elderly
 
-## 📝 Note Taking
+## Note Taking
 
 ### What is a Serious Game?
 
-A **serious game** is a game designed for purposes beyond pure entertainment. It integrates elements of gameplay with real-world applications such as education, healthcare, training, or research. These games are interactive experiences that aim to **educate, inspire, or facilitate behavioral and cognitive development** while maintaining an engaging format. By leveraging the immersion and motivation that games provide, serious games can help users absorb information or undergo therapy in a more natural and enjoyable way.
+A **serious game** is a game designed for purposes beyond pure entertainment. It integrates elements of gameplay with real world applications such as education, healthcare, training, or research. These games are interactive experiences that aim to **educate, inspire, or facilitate behavioral and cognitive development** while maintaining an engaging format. By leveraging the immersion and motivation that games provide, serious games can help users absorb information or undergo therapy in a more natural and enjoyable way.
 
 ---
 
@@ -40,13 +40,16 @@ While exploring this environment, the player encounters **simple interactive min
   - Varying hand positions
 - The game provides **feedback** based on how well the player's hand matches the shape, encouraging coordination and cognitive stimulation.
 
+![](img/image_1.png)
+![](img/image_2_diagram.png)
 
-🖼️ **Reference video inspiration**:  
+
+**Reference video inspiration**:  
 [https://x.com/interesting_aIl/status/1915692973808902605?t=c6V2oNFM48PXrv5aK7XsFA&s=08](https://x.com/interesting_aIl/status/1915692973808902605?t=c6V2oNFM48PXrv5aK7XsFA&s=08)
 
 ---
 
-### 🛠️ Tools & Technologies Used
+###  Tools & Technologies Used
 
 We are utilizing the following tools to bring this project to life:
 

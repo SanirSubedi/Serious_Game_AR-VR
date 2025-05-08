@@ -73,3 +73,15 @@ We are utilizing the following tools to bring this project to life:
 - **Meta Quest 2** – VR headset used for testing and deploying the game, with hand tracking capabilities.
 
 ---
+ ##  What Plans Do We Have in the Future?
+
+We plan to launch a **mobile companion app** that enhances the safety and usability of the VR experience for elderly or dementia patients. The app will provide features such as:
+
+- **Real-time monitoring**: Caregivers or nurses can see exactly what the patient is seeing in VR.
+- **Guidance and control**: Nurses can provide instructions, guide the patient through tasks, or encourage interaction at the right moments.
+- **Session management**: Caregivers will be able to start, pause, or exit the VR experience remotely—particularly useful if the patient becomes dizzy, disoriented, or tired.
+- **Risk reduction**: With real-time oversight, the experience becomes more controlled and safe for the user.
+- **Interactive support**: The app could also allow sending small cues (e.g., triggering the cat's sound, adding music) to gently encourage the patient.
+
+These features aim to improve the **comfort, engagement, and emotional well-being** of the patient while ensuring caregivers feel empowered to support the process.
+
